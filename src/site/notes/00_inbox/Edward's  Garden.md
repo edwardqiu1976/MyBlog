@@ -9,4 +9,3 @@
 - [[00_inbox/图床\|图床]]
 
 # 杂记
-![](https://s1.vika.cn/space/2023/08/08/7dd7a78792564d39b0b7e2c7d6d5ca1c)
