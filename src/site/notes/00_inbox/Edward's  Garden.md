@@ -9,3 +9,4 @@
 - [[00_inbox/图床\|图床]]
 
 # 杂记
+![](https://raw.githubusercontent.com/edwardqiu1976/tuchuang/main/img/20230808115712.png)
